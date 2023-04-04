@@ -1,799 +1,839 @@
 {
-"Usuarios" : [
-{
-  "id": 1,
-  "usu_email": "ccaps0@icq.com",
-  "usu_senha": "38Kx77DPTlM",
-  "empresa_id": "Bechtelar, Nicolas and Gislason",
-  "cantidatos_id": 1,
-  "created_at": "12/12/2022",
-  "updated_at": "28/11/2022"
-}, {
-  "id": 2,
-  "usu_email": "rpaule1@discovery.com",
-  "usu_senha": "SgEZFgdD",
-  "empresa_id": "Crist Inc",
-  "cantidatos_id": 2,
-  "created_at": "23/08/2022",
-  "updated_at": "08/08/2022"
-}, {
-  "id": 3,
-  "usu_email": "ctruckett2@sbwire.com",
-  "usu_senha": "NuFrdGj6pewQ",
-  "empresa_id": "Hirthe and Sons",
-  "cantidatos_id": 3,
-  "created_at": "08/10/2022",
-  "updated_at": "08/05/2022"
-}, {
-  "id": 4,
-  "usu_email": "aladyman3@eventbrite.com",
-  "usu_senha": "ljRmb6NGOctL",
-  "empresa_id": "Keebler-Lynch",
-  "cantidatos_id": 4,
-  "created_at": "03/11/2022",
-  "updated_at": "02/06/2022"
-}, {
-  "id": 5,
-  "usu_email": "mlygoe4@macromedia.com",
-  "usu_senha": "ZTQdtvCGcq",
-  "empresa_id": "Jenkins Inc",
-  "cantidatos_id": 5,
-  "created_at": "04/10/2022",
-  "updated_at": "09/12/2022"
-}, {
-  "id": 6,
-  "usu_email": "dpere5@tripod.com",
-  "usu_senha": "OGwgfDIikGVt",
-  "empresa_id": "Jones LLC",
-  "cantidatos_id": 6,
-  "created_at": "05/02/2022",
-  "updated_at": "01/08/2022"
-}, {
-  "id": 7,
-  "usu_email": "gbrognot6@canalblog.com",
-  "usu_senha": "oy6X6UNsP",
-  "empresa_id": "Heathcote-Larkin",
-  "cantidatos_id": 7,
-  "created_at": "16/10/2022",
-  "updated_at": "21/08/2022"
-}, {
-  "id": 8,
-  "usu_email": "dainley7@loc.gov",
-  "usu_senha": "gh4guarah",
-  "empresa_id": "Shanahan-Padberg",
-  "cantidatos_id": 8,
-  "created_at": "27/03/2022",
-  "updated_at": "24/01/2022"
-}, {
-  "id": 9,
-  "usu_email": "msavell8@soundcloud.com",
-  "usu_senha": "dza0LRUDvw6U",
-  "empresa_id": "Rosenbaum-Leffler",
-  "cantidatos_id": 9,
-  "created_at": "14/05/2022",
-  "updated_at": "11/08/2022"
-}, {
-  "id": 10,
-  "usu_email": "sewens9@chicagotribune.com",
-  "usu_senha": "r2wsZ9wqPKB",
-  "empresa_id": "Wiza-Daniel",
-  "cantidatos_id": 10,
-  "created_at": "02/03/2022",
-  "updated_at": "27/12/2022"
-}],
-
-"Empresas":[
-{
-  "id": 1,
-  "emp_nome": "Corwin-Beier",
-  "emp_cnpj": "64125-133",
-  "emp_telefone": "548-414-9320",
-  "emp_email": "kgotthardsf0@yahoo.com",
-  "emp_uf": "III",
-  "emp_cep": "17/05/2022",
-  "emp_cidade": "Mourelos",
-  "emp_bairro": "Cambuci",
-  "emp_rua": "Avenida Cruzeiro do Sul",
-  "vagas_id": 1,
-  "created_at": 1,
-  "updated_at": 1
-}, {
-  "id": 2,
-  "emp_nome": "Stroman, Auer and Hahn",
-  "emp_cnpj": "65044-1540",
-  "emp_telefone": "178-400-4763",
-  "emp_email": "mchampness1@msn.com",
-  "emp_uf": "Jr",
-  "emp_cep": "26/02/2022",
-  "emp_cidade": "Bidbid",
-  "emp_bairro": "Jardim",
-  "emp_rua": "Avenida Cruzeiro do Sul",
-  "vagas_id": 2,
-  "created_at": 2,
-  "updated_at": 2
-}, {
-  "id": 3,
-  "emp_nome": "Adams-Hettinger",
-  "emp_cnpj": "0591-3629",
-  "emp_telefone": "868-267-3624",
-  "emp_email": "astiggers2@webnode.com",
-  "emp_uf": "Sr",
-  "emp_cep": "02/04/2022",
-  "emp_cidade": "Goussainville",
-  "emp_bairro": "Jardim",
-  "emp_rua": "Rua Augusta",
-  "vagas_id": 3,
-  "created_at": 3,
-  "updated_at": 3
-}, {
-  "id": 4,
-  "emp_nome": "Ziemann and Sons",
-  "emp_cnpj": "51285-441",
-  "emp_telefone": "336-113-9822",
-  "emp_email": "bmannagh3@irs.gov",
-  "emp_uf": "Sr",
-  "emp_cep": "13/06/2022",
-  "emp_cidade": "Qiling",
-  "emp_bairro": "Isabel",
-  "emp_rua": "Rua Augusta",
-  "vagas_id": 4,
-  "created_at": 4,
-  "updated_at": 4
-}, {
-  "id": 5,
-  "emp_nome": "Kirlin, Mueller and Wolff",
-  "emp_cnpj": "61589-6504",
-  "emp_telefone": "933-765-4402",
-  "emp_email": "gshovlin4@ycombinator.com",
-  "emp_uf": "III",
-  "emp_cep": "15/11/2022",
-  "emp_cidade": "Maicao",
-  "emp_bairro": "Sé Bela Vista",
-  "emp_rua": "Rua Oscar Freire",
-  "vagas_id": 5,
-  "created_at": 5,
-  "updated_at": 5
-}, {
-  "id": 6,
-  "emp_nome": "Lockman-Gaylord",
-  "emp_cnpj": "13537-024",
-  "emp_telefone": "310-850-6608",
-  "emp_email": "wmaccurlye5@fotki.com",
-  "emp_uf": "IV",
-  "emp_cep": "12/05/2022",
-  "emp_cidade": "Coaraci",
-  "emp_bairro": "Jardim Europa",
-  "emp_rua": "Avenida 9 de Ju0lho",
-  "vagas_id": 6,
-  "created_at": 6,
-  "updated_at": 6
-}, {
-  "id": 7,
-  "emp_nome": "Rolfson, Nicolas and Paucek",
-  "emp_cnpj": "52533-042",
-  "emp_telefone": "316-248-9405",
-  "emp_email": "tbachmann6@weebly.com",
-  "emp_uf": "IV",
-  "emp_cep": "01/04/2022",
-  "emp_cidade": "San Luis",
-  "emp_bairro": "Sé Bela Vista",
-  "emp_rua": "Beco do Batman",
-  "vagas_id": 7,
-  "created_at": 7,
-  "updated_at": 7
-}, {
-  "id": 8,
-  "emp_nome": "Anderson-Mann",
-  "emp_cnpj": "65862-523",
-  "emp_telefone": "749-263-7968",
-  "emp_email": "dnote7@fda.gov",
-  "emp_uf": "III",
-  "emp_cep": "23/04/2022",
-  "emp_cidade": "Sé",
-  "emp_bairro": "Vila Baruta",
-  "emp_rua": "Rua Oscar Freire",
-  "vagas_id": 8,
-  "created_at": 8,
-  "updated_at": 8
-}, {
-  "id": 9,
-  "emp_nome": "Gorczany, Mosciski and Bechtelar",
-  "emp_cnpj": "59575-501",
-  "emp_telefone": "932-948-3632",
-  "emp_email": "etreven8@fastcompany.com",
-  "emp_uf": "III",
-  "emp_cep": "23/09/2022",
-  "emp_cidade": "Banjar Triwangsakeliki",
-  "emp_bairro": "Jardim",
-  "emp_rua": "Avenida Paulista",
-  "vagas_id": 9,
-  "created_at": 9,
-  "updated_at": 9
-}, {
-  "id": 10,
-  "emp_nome": "Hane, Murazik and Bosco",
-  "emp_cnpj": "51346-215",
-  "emp_telefone": "648-736-8908",
-  "emp_email": "aeffemy9@mac.com",
-  "emp_uf": "II",
-  "emp_cep": "22/01/2022",
-  "emp_cidade": "Luhyny",
-  "emp_bairro": "Bom Retiro",
-  "emp_rua": "Rua Avanhandava.",
-  "vagas_id": 10,
-  "created_at": 10,
-  "updated_at": 10
-}],
-
-"Vagas":[
-{
-  "id": 1,
-  "vag_nome": "Accounting",
-  "created_at": "01/01/2022",
-  "updated_at": "21/10/2023"
-}, {
-  "id": 2,
-  "vag_nome": "Accounting",
-  "created_at": "01/01/2022",
-  "updated_at": "11/06/2023"
-}, {
-  "id": 3,
-  "vag_nome": "Accounting",
-  "created_at": "01/01/2022",
-  "updated_at": "25/04/2023"
-}, {
-  "id": 4,
-  "vag_nome": "Support",
-  "created_at": "01/01/2022",
-  "updated_at": "26/07/2023"
-}, {
-  "id": 5,
-  "vag_nome": "Human Resources",
-  "created_at": "01/01/2022",
-  "updated_at": "17/06/2023"
-}, {
-  "id": 6,
-  "vag_nome": "Engineering",
-  "created_at": "01/01/2022",
-  "updated_at": "19/11/2023"
-}, {
-  "id": 7,
-  "vag_nome": "Legal",
-  "created_at": "01/01/2022",
-  "updated_at": "07/11/2023"
-}, {
-  "id": 8,
-  "vag_nome": "Legal",
-  "created_at": "01/01/2022",
-  "updated_at": "03/06/2023"
-}, {
-  "id": 9,
-  "vag_nome": "Marketing",
-  "created_at": "01/01/2022",
-  "updated_at": "13/02/2023"
-}, {
-  "id": 10,
-  "vag_nome": "Services",
-  "created_at": "01/01/2022",
-  "updated_at": "27/09/2023"
-}],
-
-"Cantidatos":[
-{
-  "id": 1,
-  "can_nome": "Freddy Skip",
-  "can_CPF": "174.124.77.66",
-  "can_RG": "147.44.252.19/28",
-  "can_idade": 1,
-  "can_telefone": "(656) 9888001",
-  "can_email": "fskip0@miitbeian.gov.cn",
-  "can_estadocivil": "solteira",
-  "experiencias_id": "trabalho",
-  "cursos_id": "marketing",
-  "escolaridade_id": "Segundo fundamental completo",
-  "qualificacoes_id": "Trabalho em equipe",
-  "idiomas_id": "espanhol",
-  "created_at": "01/01/2022",
-  "updated_at": "02/10/2023"
-}, {
-  "id": 2,
-  "can_nome": "Mireille Bayles",
-  "can_CPF": "236.166.139.100",
-  "can_RG": "8.212.136.109/28",
-  "can_idade": 2,
-  "can_telefone": "(279) 5842730",
-  "can_email": "mbayles1@google.com.au",
-  "can_estadocivil": "Casada",
-  "experiencias_id": "estágio",
-  "cursos_id": "contabilidade",
-  "escolaridade_id": "Segundo fundamental completo",
-  "qualificacoes_id": "respeito",
-  "idiomas_id": "espanhol",
-  "created_at": "01/01/2022",
-  "updated_at": "01/08/2023"
-}, {
-  "id": 3,
-  "can_nome": "Miguela Shea",
-  "can_CPF": "181.240.24.168",
-  "can_RG": "237.40.215.51/14",
-  "can_idade": 3,
-  "can_telefone": "(553) 1947332",
-  "can_email": "mshea2@instagram.com",
-  "can_estadocivil": "solteira",
-  "experiencias_id": "trabalho",
-  "cursos_id": "contabilidade",
-  "escolaridade_id": "Segundo fundamental completo",
-  "qualificacoes_id": "respeito",
-  "idiomas_id": "espanhol",
-  "created_at": "01/01/2022",
-  "updated_at": "02/09/2023"
-}, {
-  "id": 4,
-  "can_nome": "Karlan Gascard",
-  "can_CPF": "188.99.193.70",
-  "can_RG": "37.203.176.72/3",
-  "can_idade": 4,
-  "can_telefone": "(740) 7149197",
-  "can_email": "kgascard3@yolasite.com",
-  "can_estadocivil": "solteira",
-  "experiencias_id": "estágio",
-  "cursos_id": "informática",
-  "escolaridade_id": "Segundo fundamental completo",
-  "qualificacoes_id": "Trabalho em equipe",
-  "idiomas_id": "Português",
-  "created_at": "01/01/2022",
-  "updated_at": "22/07/2023"
-}, {
-  "id": 5,
-  "can_nome": "Homerus Van Merwe",
-  "can_CPF": "123.176.22.178",
-  "can_RG": "212.71.59.208/10",
-  "can_idade": 5,
-  "can_telefone": "(495) 3569440",
-  "can_email": "hvan4@bloglovin.com",
-  "can_estadocivil": "solteira",
-  "experiencias_id": "Curso",
-  "cursos_id": "informática",
-  "escolaridade_id": "Fundamental completo",
-  "qualificacoes_id": "organização",
-  "idiomas_id": "Português",
-  "created_at": "01/01/2022",
-  "updated_at": "09/06/2023"
-}, {
-  "id": 6,
-  "can_nome": "Ganny Ettridge",
-  "can_CPF": "44.144.241.202",
-  "can_RG": "96.226.213.4/14",
-  "can_idade": 6,
-  "can_telefone": "(482) 9954506",
-  "can_email": "gettridge5@ox.ac.uk",
-  "can_estadocivil": "solteira",
-  "experiencias_id": "estágio",
-  "cursos_id": "contabilidade",
-  "escolaridade_id": "Curso superior completo",
-  "qualificacoes_id": "organização",
-  "idiomas_id": "Português",
-  "created_at": "01/01/2022",
-  "updated_at": "30/09/2023"
-}, {
-  "id": 7,
-  "can_nome": "Guillaume Keijser",
-  "can_CPF": "175.95.223.81",
-  "can_RG": "237.220.116.119/27",
-  "can_idade": 7,
-  "can_telefone": "(868) 5498165",
-  "can_email": "gkeijser6@webmd.com",
-  "can_estadocivil": "Casada",
-  "experiencias_id": "trabalho",
-  "cursos_id": "Empreendedorismo",
-  "escolaridade_id": "Fundamental completo",
-  "qualificacoes_id": "compreensão",
-  "idiomas_id": "inglês",
-  "created_at": "01/01/2022",
-  "updated_at": "05/04/2023"
-}, {
-  "id": 8,
-  "can_nome": "Donica Heald",
-  "can_CPF": "39.132.217.56",
-  "can_RG": "81.85.114.55/12",
-  "can_idade": 8,
-  "can_telefone": "(499) 8622008",
-  "can_email": "dheald7@indiegogo.com",
-  "can_estadocivil": "Casada",
-  "experiencias_id": "trabalho",
-  "cursos_id": "Empreendedorismo",
-  "escolaridade_id": "Fundamental completo",
-  "qualificacoes_id": "organização",
-  "idiomas_id": "inglês",
-  "created_at": "01/01/2022",
-  "updated_at": "28/03/2023"
-}, {
-  "id": 9,
-  "can_nome": "Kata Bruntje",
-  "can_CPF": "80.251.54.65",
-  "can_RG": "66.251.212.79/17",
-  "can_idade": 9,
-  "can_telefone": "(617) 1725907",
-  "can_email": "kbruntje8@pinterest.com",
-  "can_estadocivil": "Casada",
-  "experiencias_id": "trabalho",
-  "cursos_id": "Empreendedorismo",
-  "escolaridade_id": "Fundamental completo",
-  "qualificacoes_id": "organização",
-  "idiomas_id": "Português",
-  "created_at": "01/01/2022",
-  "updated_at": "06/02/2023"
-}, {
-  "id": 10,
-  "can_nome": "Elonore Hathway",
-  "can_CPF": "112.150.143.210",
-  "can_RG": "28.33.232.236/3",
-  "can_idade": 10,
-  "can_telefone": "(574) 2042582",
-  "can_email": "ehathway9@wikipedia.org",
-  "can_estadocivil": "solteira",
-  "experiencias_id": "trabalho",
-  "cursos_id": "Empreendedorismo",
-  "escolaridade_id": "Segundo fundamental completo",
-  "qualificacoes_id": "respeito",
-  "idiomas_id": "Português",
-  "created_at": "01/01/2022",
-  "updated_at": "30/07/2023"
-}],
-
-"Experiencias":[
-{
-  "id": 1,
-  "exp_experiencia": "gerente",
-  "exp_local": "Port Harcourt",
-  "exp_periodo": "18/10/2023",
-  "exp_cargo": "Gerente",
-  "created_at": "05/05/2023",
-  "updated_at": "23/08/2023"
-}, {
-  "id": 2,
-  "exp_experiencia": "gerente",
-  "exp_local": "Tsimasham",
-  "exp_periodo": "11/02/2023",
-  "exp_cargo": "Estágiario",
-  "created_at": "13/08/2023",
-  "updated_at": "30/07/2023"
-}, {
-  "id": 3,
-  "exp_experiencia": "ajudante",
-  "exp_local": "Tianhe",
-  "exp_periodo": "09/09/2023",
-  "exp_cargo": "Estágiario",
-  "created_at": "12/09/2023",
-  "updated_at": "28/05/2023"
-}, {
-  "id": 4,
-  "exp_experiencia": "gerente",
-  "exp_local": "Yuanba",
-  "exp_periodo": "19/05/2023",
-  "exp_cargo": "Estágiario",
-  "created_at": "14/06/2023",
-  "updated_at": "15/05/2023"
-}, {
-  "id": 5,
-  "exp_experiencia": "trabalho",
-  "exp_local": "Cibodas",
-  "exp_periodo": "18/04/2023",
-  "exp_cargo": "Diretor",
-  "created_at": "11/06/2023",
-  "updated_at": "10/04/2023"
-}, {
-  "id": 6,
-  "exp_experiencia": "estágio",
-  "exp_local": "Yabluniv",
-  "exp_periodo": "17/06/2023",
-  "exp_cargo": "Gerente",
-  "created_at": "23/09/2023",
-  "updated_at": "01/09/2023"
-}, {
-  "id": 7,
-  "exp_experiencia": "trabalho",
-  "exp_local": "Majiadu",
-  "exp_periodo": "13/04/2023",
-  "exp_cargo": "Estágiario",
-  "created_at": "09/10/2023",
-  "updated_at": "23/07/2023"
-}, {
-  "id": 8,
-  "exp_experiencia": "estágio",
-  "exp_local": "Nguken",
-  "exp_periodo": "01/05/2023",
-  "exp_cargo": "Auxiliar",
-  "created_at": "19/05/2023",
-  "updated_at": "10/11/2023"
-}, {
-  "id": 9,
-  "exp_experiencia": "trabalho",
-  "exp_local": "Banho e Carvalhosa",
-  "exp_periodo": "22/08/2023",
-  "exp_cargo": "Assistente",
-  "created_at": "11/01/2023",
-  "updated_at": "28/08/2023"
-}, {
-  "id": 10,
-  "exp_experiencia": "ajudante",
-  "exp_local": "Annan",
-  "exp_periodo": "20/09/2023",
-  "exp_cargo": "Assistente",
-  "created_at": "09/10/2023",
-  "updated_at": "01/06/2023"
-}],
-
-"Qualificações":[
-{
-  "id": 1,
-  "qua_qualificacoes": "respeitosa",
-  "created_at": "22/02/2023",
-  "updated_at": "20/08/2023"
-}, {
-  "id": 2,
-  "qua_qualificacoes": "produtiva",
-  "created_at": "21/07/2023",
-  "updated_at": "19/02/2023"
-}, {
-  "id": 3,
-  "qua_qualificacoes": "respeitosa",
-  "created_at": "03/01/2023",
-  "updated_at": "02/09/2023"
-}, {
-  "id": 4,
-  "qua_qualificacoes": "respeitosa",
-  "created_at": "18/11/2023",
-  "updated_at": "07/02/2023"
-}, {
-  "id": 5,
-  "qua_qualificacoes": "produtiva",
-  "created_at": "26/07/2023",
-  "updated_at": "26/01/2023"
-}, {
-  "id": 6,
-  "qua_qualificacoes": "respeitosa",
-  "created_at": "23/08/2023",
-  "updated_at": "05/10/2023"
-}, {
-  "id": 7,
-  "qua_qualificacoes": "produtiva",
-  "created_at": "13/11/2023",
-  "updated_at": "23/03/2023"
-}, {
-  "id": 8,
-  "qua_qualificacoes": "produtiva",
-  "created_at": "20/10/2023",
-  "updated_at": "05/05/2023"
-}, {
-  "id": 9,
-  "qua_qualificacoes": "produtiva",
-  "created_at": "31/01/2023",
-  "updated_at": "01/11/2023"
-}, {
-  "id": 10,
-  "qua_qualificacoes": "Organizada",
-  "created_at": "27/02/2023",
-  "updated_at": "25/07/2023"
-}],
-
-"Escolaridade":[
-{
-  "id": 1,
-  "esc_escolaridade": "superior completo",
-  "esc_instituicao": "Fivebridge",
-  "esc_local": "18th Floor",
-  "esc_periodo": "9/8/2023",
-  "created_at": "1/1/2022",
-  "updated_at": "9/6/2022"
-}, {
-  "id": 2,
-  "esc_escolaridade": "superior completo",
-  "esc_instituicao": "Vinder",
-  "esc_local": "Suite 4",
-  "esc_periodo": "1/17/2022",
-  "created_at": "1/1/2022",
-  "updated_at": "3/19/2023"
-}, {
-  "id": 3,
-  "esc_escolaridade": "fundamental completo",
-  "esc_instituicao": "Wikido",
-  "esc_local": "Apt 381",
-  "esc_periodo": "7/11/2022",
-  "created_at": "1/1/2022",
-  "updated_at": "1/31/2023"
-}, {
-  "id": 4,
-  "esc_escolaridade": "superior completo",
-  "esc_instituicao": "Oyope",
-  "esc_local": "Apt 1618",
-  "esc_periodo": "11/14/2023",
-  "created_at": "1/1/2022",
-  "updated_at": "5/5/2023"
-}, {
-  "id": 5,
-  "esc_escolaridade": "superior completo",
-  "esc_instituicao": "Feednation",
-  "esc_local": "Suite 84",
-  "esc_periodo": "9/3/2022",
-  "created_at": "1/1/2022",
-  "updated_at": "12/20/2022"
-}, {
-  "id": 6,
-  "esc_escolaridade": "fundamental completo",
-  "esc_instituicao": "Kayveo",
-  "esc_local": "Room 1365",
-  "esc_periodo": "6/16/2022",
-  "created_at": "1/1/2022",
-  "updated_at": "10/19/2022"
-}, {
-  "id": 7,
-  "esc_escolaridade": "superior completo",
-  "esc_instituicao": "Skippad",
-  "esc_local": "Apt 250",
-  "esc_periodo": "7/19/2022",
-  "created_at": "1/1/2022",
-  "updated_at": "11/2/2022"
-}, {
-  "id": 8,
-  "esc_escolaridade": "fundamental completo",
-  "esc_instituicao": "Mydo",
-  "esc_local": "Room 1017",
-  "esc_periodo": "12/25/2023",
-  "created_at": "1/1/2022",
-  "updated_at": "3/11/2023"
-}, {
-  "id": 9,
-  "esc_escolaridade": "superior completo",
-  "esc_instituicao": "Rhyloo",
-  "esc_local": "Suite 4",
-  "esc_periodo": "6/9/2022",
-  "created_at": "1/1/2022",
-  "updated_at": "4/22/2023"
-}, {
-  "id": 10,
-  "esc_escolaridade": "fundamental completo",
-  "esc_instituicao": "Devify",
-  "esc_local": "9th Floor",
-  "esc_periodo": "11/8/2022",
-  "created_at": "1/1/2022",
-  "updated_at": "8/4/2022"
-}],
-
-"Cursos":[
-{
-  "id": 1,
-  "cur_curso": "marketing",
-  "cur_instituicao": "Jayo",
-  "cur_local": "4th Floor",
-  "cur_data": "6/12/2022",
-  "created_at": "1/1/2022",
-  "updated_at": "5/13/2023"
-}, {
-  "id": 2,
-  "cur_curso": "marketing",
-  "cur_instituicao": "Centizu",
-  "cur_local": "PO Box 12716",
-  "cur_data": "1/18/2023",
-  "created_at": "1/1/2022",
-  "updated_at": "11/10/2022"
-}, {
-  "id": 3,
-  "cur_curso": "informatica",
-  "cur_instituicao": "Photolist",
-  "cur_local": "PO Box 35066",
-  "cur_data": "4/2/2023",
-  "created_at": "1/1/2022",
-  "updated_at": "12/13/2022"
-}, {
-  "id": 4,
-  "cur_curso": "administração",
-  "cur_instituicao": "Meetz",
-  "cur_local": "Suite 33",
-  "cur_data": "2/13/2022",
-  "created_at": "1/1/2022",
-  "updated_at": "5/2/2023"
-}, {
-  "id": 5,
-  "cur_curso": "enfermagem",
-  "cur_instituicao": "Twitterworks",
-  "cur_local": "5th Floor",
-  "cur_data": "1/10/2022",
-  "created_at": "1/1/2022",
-  "updated_at": "7/19/2022"
-}, {
-  "id": 6,
-  "cur_curso": "marketing",
-  "cur_instituicao": "DabZ",
-  "cur_local": "Suite 37",
-  "cur_data": "10/26/2022",
-  "created_at": "1/1/2022",
-  "updated_at": "1/23/2023"
-}, {
-  "id": 7,
-  "cur_curso": "marketing",
-  "cur_instituicao": "Skivee",
-  "cur_local": "15th Floor",
-  "cur_data": "7/25/2022",
-  "created_at": "1/1/2022",
-  "updated_at": "6/2/2023"
-}, {
-  "id": 8,
-  "cur_curso": "contabilidade",
-  "cur_instituicao": "Photobean",
-  "cur_local": "4th Floor",
-  "cur_data": "8/6/2022",
-  "created_at": "1/1/2022",
-  "updated_at": "6/29/2023"
-}, {
-  "id": 9,
-  "cur_curso": "contabilidade",
-  "cur_instituicao": "Yamia",
-  "cur_local": "Apt 926",
-  "cur_data": "2/16/2023",
-  "created_at": "1/1/2022",
-  "updated_at": "4/2/2023"
-}, {
-  "id": 10,
-  "cur_curso": "administração",
-  "cur_instituicao": "Aibox",
-  "cur_local": "PO Box 793",
-  "cur_data": "10/9/2023",
-  "created_at": "1/1/2022",
-  "updated_at": "1/8/2023"
-}],
-
-"Idioma":[
-{
-  "id": 1,
-  "idi_idioma": "espanhol",
-  "created_at": "1/1/2022",
-  "updated_at": "1/22/2023"
-}, {
-  "id": 2,
-  "idi_idioma": "espanhol",
-  "created_at": "1/1/2022",
-  "updated_at": "8/7/2022"
-}, {
-  "id": 3,
-  "idi_idioma": "italiano",
-  "created_at": "1/1/2022",
-  "updated_at": "10/8/2022"
-}, {
-  "id": 4,
-  "idi_idioma": "ingles",
-  "created_at": "1/1/2022",
-  "updated_at": "10/4/2022"
-}, {
-  "id": 5,
-  "idi_idioma": "portugues",
-  "created_at": "1/1/2022",
-  "updated_at": "10/31/2022"
-}, {
-  "id": 6,
-  "idi_idioma": "ingles",
-  "created_at": "1/1/2022",
-  "updated_at": "2/28/2023"
-}, {
-  "id": 7,
-  "idi_idioma": "espanhol",
-  "created_at": "1/1/2022",
-  "updated_at": "8/21/2022"
-}, {
-  "id": 8,
-  "idi_idioma": "espanhol",
-  "created_at": "1/1/2022",
-  "updated_at": "10/12/2022"
-}, {
-  "id": 9,
-  "idi_idioma": "espanhol",
-  "created_at": "1/1/2022",
-  "updated_at": "2/15/2023"
-}, {
-  "id": 10,
-  "idi_idioma": "portugues",
-  "created_at": "1/1/2022",
-  "updated_at": "12/5/2022"
-    }
-    ]
-}
+  "Usuarios" : [
+  {
+    "id": 1,
+    "usu_email": "ccaps0@icq.com",
+    "usu_senha": "38Kx77DPTlM",
+    "empresa_id": "Bechtelar, Nicolas and Gislason",
+    "cantidatos_id": 1,
+    "created_at": "12/12/2022",
+    "updated_at": "28/11/2022"
+  }, {
+    "id": 2,
+    "usu_email": "rpaule1@discovery.com",
+    "usu_senha": "SgEZFgdD",
+    "empresa_id": "Crist Inc",
+    "cantidatos_id": 2,
+    "created_at": "23/08/2022",
+    "updated_at": "08/08/2022"
+  }, {
+    "id": 3,
+    "usu_email": "ctruckett2@sbwire.com",
+    "usu_senha": "NuFrdGj6pewQ",
+    "empresa_id": "Hirthe and Sons",
+    "cantidatos_id": 3,
+    "created_at": "08/10/2022",
+    "updated_at": "08/05/2022"
+  }, {
+    "id": 4,
+    "usu_email": "aladyman3@eventbrite.com",
+    "usu_senha": "ljRmb6NGOctL",
+    "empresa_id": "Keebler-Lynch",
+    "cantidatos_id": 4,
+    "created_at": "03/11/2022",
+    "updated_at": "02/06/2022"
+  }, {
+    "id": 5,
+    "usu_email": "mlygoe4@macromedia.com",
+    "usu_senha": "ZTQdtvCGcq",
+    "empresa_id": "Jenkins Inc",
+    "cantidatos_id": 5,
+    "created_at": "04/10/2022",
+    "updated_at": "09/12/2022"
+  }, {
+    "id": 6,
+    "usu_email": "dpere5@tripod.com",
+    "usu_senha": "OGwgfDIikGVt",
+    "empresa_id": "Jones LLC",
+    "cantidatos_id": 6,
+    "created_at": "05/02/2022",
+    "updated_at": "01/08/2022"
+  }, {
+    "id": 7,
+    "usu_email": "gbrognot6@canalblog.com",
+    "usu_senha": "oy6X6UNsP",
+    "empresa_id": "Heathcote-Larkin",
+    "cantidatos_id": 7,
+    "created_at": "16/10/2022",
+    "updated_at": "21/08/2022"
+  }, {
+    "id": 8,
+    "usu_email": "dainley7@loc.gov",
+    "usu_senha": "gh4guarah",
+    "empresa_id": "Shanahan-Padberg",
+    "cantidatos_id": 8,
+    "created_at": "27/03/2022",
+    "updated_at": "24/01/2022"
+  }, {
+    "id": 9,
+    "usu_email": "msavell8@soundcloud.com",
+    "usu_senha": "dza0LRUDvw6U",
+    "empresa_id": "Rosenbaum-Leffler",
+    "cantidatos_id": 9,
+    "created_at": "14/05/2022",
+    "updated_at": "11/08/2022"
+  }, {
+    "id": 10,
+    "usu_email": "sewens9@chicagotribune.com",
+    "usu_senha": "r2wsZ9wqPKB",
+    "empresa_id": "Wiza-Daniel",
+    "cantidatos_id": 10,
+    "created_at": "02/03/2022",
+    "updated_at": "27/12/2022"
+  }],
+  
+  "Empresas":[
+  {
+    "id": 1,
+    "emp_nome": "Corwin-Beier",
+    "emp_cnpj": "64125-133",
+    "emp_telefone": "548-414-9320",
+    "emp_email": "kgotthardsf0@yahoo.com",
+    "emp_uf": "III",
+    "emp_cep": "17/05/2022",
+    "emp_cidade": "Mourelos",
+    "emp_bairro": "Cambuci",
+    "emp_rua": "Avenida Cruzeiro do Sul",
+    "vagas_id": 1,
+    "created_at": 1,
+    "updated_at": 1
+  }, {
+    "id": 2,
+    "emp_nome": "Stroman, Auer and Hahn",
+    "emp_cnpj": "65044-1540",
+    "emp_telefone": "178-400-4763",
+    "emp_email": "mchampness1@msn.com",
+    "emp_uf": "Jr",
+    "emp_cep": "26/02/2022",
+    "emp_cidade": "Bidbid",
+    "emp_bairro": "Jardim",
+    "emp_rua": "Avenida Cruzeiro do Sul",
+    "vagas_id": 2,
+    "created_at": 2,
+    "updated_at": 2
+  }, {
+    "id": 3,
+    "emp_nome": "Adams-Hettinger",
+    "emp_cnpj": "0591-3629",
+    "emp_telefone": "868-267-3624",
+    "emp_email": "astiggers2@webnode.com",
+    "emp_uf": "Sr",
+    "emp_cep": "02/04/2022",
+    "emp_cidade": "Goussainville",
+    "emp_bairro": "Jardim",
+    "emp_rua": "Rua Augusta",
+    "vagas_id": 3,
+    "created_at": 3,
+    "updated_at": 3
+  }, {
+    "id": 4,
+    "emp_nome": "Ziemann and Sons",
+    "emp_cnpj": "51285-441",
+    "emp_telefone": "336-113-9822",
+    "emp_email": "bmannagh3@irs.gov",
+    "emp_uf": "Sr",
+    "emp_cep": "13/06/2022",
+    "emp_cidade": "Qiling",
+    "emp_bairro": "Isabel",
+    "emp_rua": "Rua Augusta",
+    "vagas_id": 4,
+    "created_at": 4,
+    "updated_at": 4
+  }, {
+    "id": 5,
+    "emp_nome": "Kirlin, Mueller and Wolff",
+    "emp_cnpj": "61589-6504",
+    "emp_telefone": "933-765-4402",
+    "emp_email": "gshovlin4@ycombinator.com",
+    "emp_uf": "III",
+    "emp_cep": "15/11/2022",
+    "emp_cidade": "Maicao",
+    "emp_bairro": "Sé Bela Vista",
+    "emp_rua": "Rua Oscar Freire",
+    "vagas_id": 5,
+    "created_at": 5,
+    "updated_at": 5
+  }, {
+    "id": 6,
+    "emp_nome": "Lockman-Gaylord",
+    "emp_cnpj": "13537-024",
+    "emp_telefone": "310-850-6608",
+    "emp_email": "wmaccurlye5@fotki.com",
+    "emp_uf": "IV",
+    "emp_cep": "12/05/2022",
+    "emp_cidade": "Coaraci",
+    "emp_bairro": "Jardim Europa",
+    "emp_rua": "Avenida 9 de Ju0lho",
+    "vagas_id": 6,
+    "created_at": 6,
+    "updated_at": 6
+  }, {
+    "id": 7,
+    "emp_nome": "Rolfson, Nicolas and Paucek",
+    "emp_cnpj": "52533-042",
+    "emp_telefone": "316-248-9405",
+    "emp_email": "tbachmann6@weebly.com",
+    "emp_uf": "IV",
+    "emp_cep": "01/04/2022",
+    "emp_cidade": "San Luis",
+    "emp_bairro": "Sé Bela Vista",
+    "emp_rua": "Beco do Batman",
+    "vagas_id": 7,
+    "created_at": 7,
+    "updated_at": 7
+  }, {
+    "id": 8,
+    "emp_nome": "Anderson-Mann",
+    "emp_cnpj": "65862-523",
+    "emp_telefone": "749-263-7968",
+    "emp_email": "dnote7@fda.gov",
+    "emp_uf": "III",
+    "emp_cep": "23/04/2022",
+    "emp_cidade": "Sé",
+    "emp_bairro": "Vila Baruta",
+    "emp_rua": "Rua Oscar Freire",
+    "vagas_id": 8,
+    "created_at": 8,
+    "updated_at": 8
+  }, {
+    "id": 9,
+    "emp_nome": "Gorczany, Mosciski and Bechtelar",
+    "emp_cnpj": "59575-501",
+    "emp_telefone": "932-948-3632",
+    "emp_email": "etreven8@fastcompany.com",
+    "emp_uf": "III",
+    "emp_cep": "23/09/2022",
+    "emp_cidade": "Banjar Triwangsakeliki",
+    "emp_bairro": "Jardim",
+    "emp_rua": "Avenida Paulista",
+    "vagas_id": 9,
+    "created_at": 9,
+    "updated_at": 9
+  }, {
+    "id": 10,
+    "emp_nome": "Hane, Murazik and Bosco",
+    "emp_cnpj": "51346-215",
+    "emp_telefone": "648-736-8908",
+    "emp_email": "aeffemy9@mac.com",
+    "emp_uf": "II",
+    "emp_cep": "22/01/2022",
+    "emp_cidade": "Luhyny",
+    "emp_bairro": "Bom Retiro",
+    "emp_rua": "Rua Avanhandava.",
+    "vagas_id": 10,
+    "created_at": 10,
+    "updated_at": 10
+  }],
+  
+  "Vagas":[
+  {
+    "id": 1,
+    "vag_nome": "Estagiário",
+    "vag_requisitos": "estudo",
+    "vag_beneficios": "aprendizagem",
+    "vag_maisinformacoes": "Necessário já ter trabalhado na área",
+    "created_at": "3/11/2023",
+    "updated_at": "8/2/2022"
+  }, {
+    "id": 2,
+    "vag_nome": "Estagiário",
+    "vag_requisitos": "Educação",
+    "vag_beneficios": "aprendizagem",
+    "vag_maisinformacoes": "salário de acordo com as qualificações",
+    "created_at": "4/23/2022",
+    "updated_at": "4/11/2022"
+  }, {
+    "id": 3,
+    "vag_nome": "jovem aprendiz",
+    "vag_requisitos": "estudo",
+    "vag_beneficios": "Pontos na carteira de trabalho",
+    "vag_maisinformacoes": "salário de acordo com as qualificações",
+    "created_at": "3/26/2023",
+    "updated_at": "9/1/2022"
+  }, {
+    "id": 4,
+    "vag_nome": "pedreiro",
+    "vag_requisitos": "experiencias",
+    "vag_beneficios": "Pontos na carteira de trabalho",
+    "vag_maisinformacoes": "salário de acordo com as qualificações",
+    "created_at": "12/29/2022",
+    "updated_at": "8/17/2022"
+  }, {
+    "id": 5,
+    "vag_nome": "babá",
+    "vag_requisitos": "estudo",
+    "vag_beneficios": "Pontos na carteira de trabalho",
+    "vag_maisinformacoes": "Necessário já ter trabalhado na área",
+    "created_at": "8/14/2022",
+    "updated_at": "11/21/2022"
+  }, {
+    "id": 6,
+    "vag_nome": "pedreiro",
+    "vag_requisitos": "experiencias",
+    "vag_beneficios": "aprendizagem",
+    "vag_maisinformacoes": "salário de acordo com as qualificações",
+    "created_at": "9/2/2022",
+    "updated_at": "5/8/2022"
+  }, {
+    "id": 7,
+    "vag_nome": "babá",
+    "vag_requisitos": "experiencias",
+    "vag_beneficios": "Pontos na carteira de trabalho",
+    "vag_maisinformacoes": "salário de acordo com as qualificações",
+    "created_at": "12/5/2022",
+    "updated_at": "1/22/2023"
+  }, {
+    "id": 8,
+    "vag_nome": "Estagiário",
+    "vag_requisitos": "experiencias",
+    "vag_beneficios": "Pontos na carteira de trabalho",
+    "vag_maisinformacoes": "Necessário já ter trabalhado na área",
+    "created_at": "11/8/2022",
+    "updated_at": "3/8/2023"
+  }, {
+    "id": 9,
+    "vag_nome": "pedreiro",
+    "vag_requisitos": "experiencias",
+    "vag_beneficios": "Pontos na carteira de trabalho",
+    "vag_maisinformacoes": "Necessário já ter trabalhado na área",
+    "created_at": "1/21/2023",
+    "updated_at": "2/1/2023"
+  }, {
+    "id": 10,
+    "vag_nome": "babá",
+    "vag_requisitos": "estudo",
+    "vag_beneficios": "aprendizagem",
+    "vag_maisinformacoes": "salário de acordo com as qualificações",
+    "created_at": "10/25/2022",
+    "updated_at": "7/15/2022"
+  }],
+  
+  "Cantidatos":[
+  {
+    "id": 1,
+    "can_nome": "Freddy Skip",
+    "can_CPF": "174.124.77.66",
+    "can_RG": "147.44.252.19/28",
+    "can_idade": 1,
+    "can_telefone": "(656) 9888001",
+    "can_email": "fskip0@miitbeian.gov.cn",
+    "can_estadocivil": "solteira",
+    "experiencias_id": "trabalho",
+    "cursos_id": "marketing",
+    "escolaridade_id": "Segundo fundamental completo",
+    "qualificacoes_id": "Trabalho em equipe",
+    "idiomas_id": "espanhol",
+    "created_at": "01/01/2022",
+    "updated_at": "02/10/2023"
+  }, {
+    "id": 2,
+    "can_nome": "Mireille Bayles",
+    "can_CPF": "236.166.139.100",
+    "can_RG": "8.212.136.109/28",
+    "can_idade": 2,
+    "can_telefone": "(279) 5842730",
+    "can_email": "mbayles1@google.com.au",
+    "can_estadocivil": "Casada",
+    "experiencias_id": "estágio",
+    "cursos_id": "contabilidade",
+    "escolaridade_id": "Segundo fundamental completo",
+    "qualificacoes_id": "respeito",
+    "idiomas_id": "espanhol",
+    "created_at": "01/01/2022",
+    "updated_at": "01/08/2023"
+  }, {
+    "id": 3,
+    "can_nome": "Miguela Shea",
+    "can_CPF": "181.240.24.168",
+    "can_RG": "237.40.215.51/14",
+    "can_idade": 3,
+    "can_telefone": "(553) 1947332",
+    "can_email": "mshea2@instagram.com",
+    "can_estadocivil": "solteira",
+    "experiencias_id": "trabalho",
+    "cursos_id": "contabilidade",
+    "escolaridade_id": "Segundo fundamental completo",
+    "qualificacoes_id": "respeito",
+    "idiomas_id": "espanhol",
+    "created_at": "01/01/2022",
+    "updated_at": "02/09/2023"
+  }, {
+    "id": 4,
+    "can_nome": "Karlan Gascard",
+    "can_CPF": "188.99.193.70",
+    "can_RG": "37.203.176.72/3",
+    "can_idade": 4,
+    "can_telefone": "(740) 7149197",
+    "can_email": "kgascard3@yolasite.com",
+    "can_estadocivil": "solteira",
+    "experiencias_id": "estágio",
+    "cursos_id": "informática",
+    "escolaridade_id": "Segundo fundamental completo",
+    "qualificacoes_id": "Trabalho em equipe",
+    "idiomas_id": "Português",
+    "created_at": "01/01/2022",
+    "updated_at": "22/07/2023"
+  }, {
+    "id": 5,
+    "can_nome": "Homerus Van Merwe",
+    "can_CPF": "123.176.22.178",
+    "can_RG": "212.71.59.208/10",
+    "can_idade": 5,
+    "can_telefone": "(495) 3569440",
+    "can_email": "hvan4@bloglovin.com",
+    "can_estadocivil": "solteira",
+    "experiencias_id": "Curso",
+    "cursos_id": "informática",
+    "escolaridade_id": "Fundamental completo",
+    "qualificacoes_id": "organização",
+    "idiomas_id": "Português",
+    "created_at": "01/01/2022",
+    "updated_at": "09/06/2023"
+  }, {
+    "id": 6,
+    "can_nome": "Ganny Ettridge",
+    "can_CPF": "44.144.241.202",
+    "can_RG": "96.226.213.4/14",
+    "can_idade": 6,
+    "can_telefone": "(482) 9954506",
+    "can_email": "gettridge5@ox.ac.uk",
+    "can_estadocivil": "solteira",
+    "experiencias_id": "estágio",
+    "cursos_id": "contabilidade",
+    "escolaridade_id": "Curso superior completo",
+    "qualificacoes_id": "organização",
+    "idiomas_id": "Português",
+    "created_at": "01/01/2022",
+    "updated_at": "30/09/2023"
+  }, {
+    "id": 7,
+    "can_nome": "Guillaume Keijser",
+    "can_CPF": "175.95.223.81",
+    "can_RG": "237.220.116.119/27",
+    "can_idade": 7,
+    "can_telefone": "(868) 5498165",
+    "can_email": "gkeijser6@webmd.com",
+    "can_estadocivil": "Casada",
+    "experiencias_id": "trabalho",
+    "cursos_id": "Empreendedorismo",
+    "escolaridade_id": "Fundamental completo",
+    "qualificacoes_id": "compreensão",
+    "idiomas_id": "inglês",
+    "created_at": "01/01/2022",
+    "updated_at": "05/04/2023"
+  }, {
+    "id": 8,
+    "can_nome": "Donica Heald",
+    "can_CPF": "39.132.217.56",
+    "can_RG": "81.85.114.55/12",
+    "can_idade": 8,
+    "can_telefone": "(499) 8622008",
+    "can_email": "dheald7@indiegogo.com",
+    "can_estadocivil": "Casada",
+    "experiencias_id": "trabalho",
+    "cursos_id": "Empreendedorismo",
+    "escolaridade_id": "Fundamental completo",
+    "qualificacoes_id": "organização",
+    "idiomas_id": "inglês",
+    "created_at": "01/01/2022",
+    "updated_at": "28/03/2023"
+  }, {
+    "id": 9,
+    "can_nome": "Kata Bruntje",
+    "can_CPF": "80.251.54.65",
+    "can_RG": "66.251.212.79/17",
+    "can_idade": 9,
+    "can_telefone": "(617) 1725907",
+    "can_email": "kbruntje8@pinterest.com",
+    "can_estadocivil": "Casada",
+    "experiencias_id": "trabalho",
+    "cursos_id": "Empreendedorismo",
+    "escolaridade_id": "Fundamental completo",
+    "qualificacoes_id": "organização",
+    "idiomas_id": "Português",
+    "created_at": "01/01/2022",
+    "updated_at": "06/02/2023"
+  }, {
+    "id": 10,
+    "can_nome": "Elonore Hathway",
+    "can_CPF": "112.150.143.210",
+    "can_RG": "28.33.232.236/3",
+    "can_idade": 10,
+    "can_telefone": "(574) 2042582",
+    "can_email": "ehathway9@wikipedia.org",
+    "can_estadocivil": "solteira",
+    "experiencias_id": "trabalho",
+    "cursos_id": "Empreendedorismo",
+    "escolaridade_id": "Segundo fundamental completo",
+    "qualificacoes_id": "respeito",
+    "idiomas_id": "Português",
+    "created_at": "01/01/2022",
+    "updated_at": "30/07/2023"
+  }],
+  
+  "Experiencias":[
+  {
+    "id": 1,
+    "exp_experiencia": "gerente",
+    "exp_local": "Port Harcourt",
+    "exp_periodo": "18/10/2023",
+    "exp_cargo": "Gerente",
+    "created_at": "05/05/2023",
+    "updated_at": "23/08/2023"
+  }, {
+    "id": 2,
+    "exp_experiencia": "gerente",
+    "exp_local": "Tsimasham",
+    "exp_periodo": "11/02/2023",
+    "exp_cargo": "Estágiario",
+    "created_at": "13/08/2023",
+    "updated_at": "30/07/2023"
+  }, {
+    "id": 3,
+    "exp_experiencia": "ajudante",
+    "exp_local": "Tianhe",
+    "exp_periodo": "09/09/2023",
+    "exp_cargo": "Estágiario",
+    "created_at": "12/09/2023",
+    "updated_at": "28/05/2023"
+  }, {
+    "id": 4,
+    "exp_experiencia": "gerente",
+    "exp_local": "Yuanba",
+    "exp_periodo": "19/05/2023",
+    "exp_cargo": "Estágiario",
+    "created_at": "14/06/2023",
+    "updated_at": "15/05/2023"
+  }, {
+    "id": 5,
+    "exp_experiencia": "trabalho",
+    "exp_local": "Cibodas",
+    "exp_periodo": "18/04/2023",
+    "exp_cargo": "Diretor",
+    "created_at": "11/06/2023",
+    "updated_at": "10/04/2023"
+  }, {
+    "id": 6,
+    "exp_experiencia": "estágio",
+    "exp_local": "Yabluniv",
+    "exp_periodo": "17/06/2023",
+    "exp_cargo": "Gerente",
+    "created_at": "23/09/2023",
+    "updated_at": "01/09/2023"
+  }, {
+    "id": 7,
+    "exp_experiencia": "trabalho",
+    "exp_local": "Majiadu",
+    "exp_periodo": "13/04/2023",
+    "exp_cargo": "Estágiario",
+    "created_at": "09/10/2023",
+    "updated_at": "23/07/2023"
+  }, {
+    "id": 8,
+    "exp_experiencia": "estágio",
+    "exp_local": "Nguken",
+    "exp_periodo": "01/05/2023",
+    "exp_cargo": "Auxiliar",
+    "created_at": "19/05/2023",
+    "updated_at": "10/11/2023"
+  }, {
+    "id": 9,
+    "exp_experiencia": "trabalho",
+    "exp_local": "Banho e Carvalhosa",
+    "exp_periodo": "22/08/2023",
+    "exp_cargo": "Assistente",
+    "created_at": "11/01/2023",
+    "updated_at": "28/08/2023"
+  }, {
+    "id": 10,
+    "exp_experiencia": "ajudante",
+    "exp_local": "Annan",
+    "exp_periodo": "20/09/2023",
+    "exp_cargo": "Assistente",
+    "created_at": "09/10/2023",
+    "updated_at": "01/06/2023"
+  }],
+  
+  "Qualificacoes":[
+  {
+    "id": 1,
+    "qua_qualificacao": "especialista em contabilidade",
+    "qua_descricao": "formado",
+    "created_at": "4/8/2022",
+    "updated_at": "1/3/2023"
+  }, {
+    "id": 2,
+    "qua_qualificacao": "especialista em contabilidade",
+    "qua_descricao": "cursado",
+    "created_at": "12/15/2022",
+    "updated_at": "12/22/2022"
+  }, {
+    "id": 3,
+    "qua_qualificacao": "profissional em markeeting",
+    "qua_descricao": "formado",
+    "created_at": "3/17/2023",
+    "updated_at": "11/6/2022"
+  }, {
+    "id": 4,
+    "qua_qualificacao": "profissional em markeeting",
+    "qua_descricao": "formado",
+    "created_at": "5/26/2022",
+    "updated_at": "5/20/2022"
+  }, {
+    "id": 5,
+    "qua_qualificacao": "especialista em contabilidade",
+    "qua_descricao": "formado",
+    "created_at": "4/22/2022",
+    "updated_at": "12/18/2022"
+  }, {
+    "id": 6,
+    "qua_qualificacao": "profissional em markeeting",
+    "qua_descricao": "formado",
+    "created_at": "2/8/2023",
+    "updated_at": "9/16/2022"
+  }, {
+    "id": 7,
+    "qua_qualificacao": "especialista em contabilidade",
+    "qua_descricao": "formado",
+    "created_at": "6/4/2022",
+    "updated_at": "6/26/2022"
+  }, {
+    "id": 8,
+    "qua_qualificacao": "especialista em contabilidade",
+    "qua_descricao": "cursado",
+    "created_at": "4/21/2022",
+    "updated_at": "12/30/2022"
+  }, {
+    "id": 9,
+    "qua_qualificacao": "especialista em contabilidade",
+    "qua_descricao": "formado",
+    "created_at": "6/8/2022",
+    "updated_at": "3/12/2023"
+  }, {
+    "id": 10,
+    "qua_qualificacao": "especialista em contabilidade",
+    "qua_descricao": "cursado",
+    "created_at": "8/5/2022",
+    "updated_at": "1/23/2023"
+  }],
+  
+  "Escolaridade":[
+  {
+    "id": 1,
+    "esc_escolaridade": "superior completo",
+    "esc_instituicao": "Fivebridge",
+    "esc_local": "18th Floor",
+    "esc_periodo": "9/8/2023",
+    "created_at": "1/1/2022",
+    "updated_at": "9/6/2022"
+  }, {
+    "id": 2,
+    "esc_escolaridade": "superior completo",
+    "esc_instituicao": "Vinder",
+    "esc_local": "Suite 4",
+    "esc_periodo": "1/17/2022",
+    "created_at": "1/1/2022",
+    "updated_at": "3/19/2023"
+  }, {
+    "id": 3,
+    "esc_escolaridade": "fundamental completo",
+    "esc_instituicao": "Wikido",
+    "esc_local": "Apt 381",
+    "esc_periodo": "7/11/2022",
+    "created_at": "1/1/2022",
+    "updated_at": "1/31/2023"
+  }, {
+    "id": 4,
+    "esc_escolaridade": "superior completo",
+    "esc_instituicao": "Oyope",
+    "esc_local": "Apt 1618",
+    "esc_periodo": "11/14/2023",
+    "created_at": "1/1/2022",
+    "updated_at": "5/5/2023"
+  }, {
+    "id": 5,
+    "esc_escolaridade": "superior completo",
+    "esc_instituicao": "Feednation",
+    "esc_local": "Suite 84",
+    "esc_periodo": "9/3/2022",
+    "created_at": "1/1/2022",
+    "updated_at": "12/20/2022"
+  }, {
+    "id": 6,
+    "esc_escolaridade": "fundamental completo",
+    "esc_instituicao": "Kayveo",
+    "esc_local": "Room 1365",
+    "esc_periodo": "6/16/2022",
+    "created_at": "1/1/2022",
+    "updated_at": "10/19/2022"
+  }, {
+    "id": 7,
+    "esc_escolaridade": "superior completo",
+    "esc_instituicao": "Skippad",
+    "esc_local": "Apt 250",
+    "esc_periodo": "7/19/2022",
+    "created_at": "1/1/2022",
+    "updated_at": "11/2/2022"
+  }, {
+    "id": 8,
+    "esc_escolaridade": "fundamental completo",
+    "esc_instituicao": "Mydo",
+    "esc_local": "Room 1017",
+    "esc_periodo": "12/25/2023",
+    "created_at": "1/1/2022",
+    "updated_at": "3/11/2023"
+  }, {
+    "id": 9,
+    "esc_escolaridade": "superior completo",
+    "esc_instituicao": "Rhyloo",
+    "esc_local": "Suite 4",
+    "esc_periodo": "6/9/2022",
+    "created_at": "1/1/2022",
+    "updated_at": "4/22/2023"
+  }, {
+    "id": 10,
+    "esc_escolaridade": "fundamental completo",
+    "esc_instituicao": "Devify",
+    "esc_local": "9th Floor",
+    "esc_periodo": "11/8/2022",
+    "created_at": "1/1/2022",
+    "updated_at": "8/4/2022"
+  }],
+  
+  "Cursos":[
+  {
+    "id": 1,
+    "cur_curso": "marketing",
+    "cur_instituicao": "Jayo",
+    "cur_local": "4th Floor",
+    "cur_data": "6/12/2022",
+    "created_at": "1/1/2022",
+    "updated_at": "5/13/2023"
+  }, {
+    "id": 2,
+    "cur_curso": "marketing",
+    "cur_instituicao": "Centizu",
+    "cur_local": "PO Box 12716",
+    "cur_data": "1/18/2023",
+    "created_at": "1/1/2022",
+    "updated_at": "11/10/2022"
+  }, {
+    "id": 3,
+    "cur_curso": "informatica",
+    "cur_instituicao": "Photolist",
+    "cur_local": "PO Box 35066",
+    "cur_data": "4/2/2023",
+    "created_at": "1/1/2022",
+    "updated_at": "12/13/2022"
+  }, {
+    "id": 4,
+    "cur_curso": "administração",
+    "cur_instituicao": "Meetz",
+    "cur_local": "Suite 33",
+    "cur_data": "2/13/2022",
+    "created_at": "1/1/2022",
+    "updated_at": "5/2/2023"
+  }, {
+    "id": 5,
+    "cur_curso": "enfermagem",
+    "cur_instituicao": "Twitterworks",
+    "cur_local": "5th Floor",
+    "cur_data": "1/10/2022",
+    "created_at": "1/1/2022",
+    "updated_at": "7/19/2022"
+  }, {
+    "id": 6,
+    "cur_curso": "marketing",
+    "cur_instituicao": "DabZ",
+    "cur_local": "Suite 37",
+    "cur_data": "10/26/2022",
+    "created_at": "1/1/2022",
+    "updated_at": "1/23/2023"
+  }, {
+    "id": 7,
+    "cur_curso": "marketing",
+    "cur_instituicao": "Skivee",
+    "cur_local": "15th Floor",
+    "cur_data": "7/25/2022",
+    "created_at": "1/1/2022",
+    "updated_at": "6/2/2023"
+  }, {
+    "id": 8,
+    "cur_curso": "contabilidade",
+    "cur_instituicao": "Photobean",
+    "cur_local": "4th Floor",
+    "cur_data": "8/6/2022",
+    "created_at": "1/1/2022",
+    "updated_at": "6/29/2023"
+  }, {
+    "id": 9,
+    "cur_curso": "contabilidade",
+    "cur_instituicao": "Yamia",
+    "cur_local": "Apt 926",
+    "cur_data": "2/16/2023",
+    "created_at": "1/1/2022",
+    "updated_at": "4/2/2023"
+  }, {
+    "id": 10,
+    "cur_curso": "administração",
+    "cur_instituicao": "Aibox",
+    "cur_local": "PO Box 793",
+    "cur_data": "10/9/2023",
+    "created_at": "1/1/2022",
+    "updated_at": "1/8/2023"
+  }],
+  
+  "Idioma":[
+  {
+    "id": 1,
+    "idi_idioma": "espanhol",
+    "created_at": "1/1/2022",
+    "updated_at": "1/22/2023"
+  }, {
+    "id": 2,
+    "idi_idioma": "espanhol",
+    "created_at": "1/1/2022",
+    "updated_at": "8/7/2022"
+  }, {
+    "id": 3,
+    "idi_idioma": "italiano",
+    "created_at": "1/1/2022",
+    "updated_at": "10/8/2022"
+  }, {
+    "id": 4,
+    "idi_idioma": "ingles",
+    "created_at": "1/1/2022",
+    "updated_at": "10/4/2022"
+  }, {
+    "id": 5,
+    "idi_idioma": "portugues",
+    "created_at": "1/1/2022",
+    "updated_at": "10/31/2022"
+  }, {
+    "id": 6,
+    "idi_idioma": "ingles",
+    "created_at": "1/1/2022",
+    "updated_at": "2/28/2023"
+  }, {
+    "id": 7,
+    "idi_idioma": "espanhol",
+    "created_at": "1/1/2022",
+    "updated_at": "8/21/2022"
+  }, {
+    "id": 8,
+    "idi_idioma": "espanhol",
+    "created_at": "1/1/2022",
+    "updated_at": "10/12/2022"
+  }, {
+    "id": 9,
+    "idi_idioma": "espanhol",
+    "created_at": "1/1/2022",
+    "updated_at": "2/15/2023"
+  }, {
+    "id": 10,
+    "idi_idioma": "portugues",
+    "created_at": "1/1/2022",
+    "updated_at": "12/5/2022"
+      }
+      ]
+  }
